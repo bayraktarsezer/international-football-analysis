@@ -1,4 +1,4 @@
-## ⚽ International Football Analysis  
+⚽ International Football Analysis  
 *A Data-Driven Exploration of 150 Years of Global Football*  
 
 This project visualizes over **48,000 international football matches (1872–2023)** to uncover long-term patterns in **goal scoring, competitiveness, and tournament evolution**.  
@@ -6,7 +6,7 @@ It combines global trends with detailed **country-level dashboards**, offering a
 
 ---
 
-### 📊 Key Insights  
+📊 Key Insights  
 
 - **Home advantage remains dominant:** Home teams win about **49%** of all international matches, confirming a consistent global trend across 150 years.  
 - **Low-scoring nature of football:** Most matches end with **2–3 total goals**, reflecting football’s inherently tactical and defensive balance.  
@@ -23,7 +23,7 @@ It combines global trends with detailed **country-level dashboards**, offering a
 
 ---
 
-### 🌍 Country-Level Dashboards  
+🌍 Country-Level Dashboards  
 
 In addition to global analyses, the project features **10 national dashboards**, each visualizing:  
 - Win, loss, and draw rates  
@@ -32,17 +32,6 @@ In addition to global analyses, the project features **10 national dashboards**,
 - Historical performance trends  
 
 Countries analyzed include **Brazil, Germany, Argentina, Italy, France, Netherlands, England, Spain, Portugal, and Uruguay.**
-
-Each dashboard was generated using a reusable Python function for consistent data filtering and visualization:
-
-```python
-def get_country_data(df, country):
-    """Filter all home & away matches for a given country."""
-    df_country = df[
-        (df['home_team'] == country) | (df['away_team'] == country)
-    ].copy()
-    df_country['is_home'] = df_country['home_team'] == country
-    return df_country
 
 --- 
 
