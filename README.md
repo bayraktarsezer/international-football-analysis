@@ -46,7 +46,7 @@ def get_country_data(df, country):
 
 --- 
 
-### 🧠 Technologies Used
+🧠 Technologies Used
 
 Python — core programming and analysis
 
@@ -60,7 +60,7 @@ Seaborn — complementary statistical styling
 
 ---
 
-### 📂 Repository Structure
+📂 Repository Structure
 
 international-football-analysis/
 │
@@ -72,7 +72,7 @@ international-football-analysis/
 
 ---
 
-### 👨‍💻 Author
+👨‍💻 Author
 
 Sezer Bayraktar
 Software Engineering & Business Student / Aspiring Data Scientist
@@ -80,6 +80,6 @@ Software Engineering & Business Student / Aspiring Data Scientist
 
 ---
 
-### 🏁 Notes
+🏁 Notes
 
 This project was created for portfolio and educational purposes — demonstrating skills in data analysis, visualization, and storytelling through global and national football analytics.
