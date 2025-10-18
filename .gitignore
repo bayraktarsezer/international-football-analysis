@@ -1,0 +1,27 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore virtual environments
+venv/
+env/
+.venv/
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore Jupyter autosave files
+*.ipynb_save
+
+# Ignore VSCode settings
+.vscode/
