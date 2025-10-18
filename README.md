@@ -49,7 +49,8 @@ Seaborn — complementary statistical styling
 
 ---
 
-📂 Repository Structure
+### 📂 Repository Structure
+
 
 international-football-analysis/
 │
@@ -61,7 +62,8 @@ international-football-analysis/
 
 ---
 
-👨‍💻 Author
+### 👨‍💻 Author
+
 
 Sezer Bayraktar
 Software Engineering & Business Student / Aspiring Data Scientist
