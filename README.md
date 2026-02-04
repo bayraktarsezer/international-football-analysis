@@ -46,7 +46,7 @@ In addition to global analyses, the project features **10 national dashboards**,
 - Most frequent opponents and rivalries  
 - Historical performance trends  
 
-Countries analyzed include **Brazil, Germany, Argentina, Italy, France, Netherlands, England, Spain, Portugal, and Uruguay.**
+Countries analyzed include **Brazil, Germany, Argentina, Italy, France, Netherlands, England, Spain, Portugal, and Türkiye.**
 
 --- 
 
